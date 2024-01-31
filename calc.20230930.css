@@ -1,13 +1,13 @@
 @font-face {
-	font-family: Always Together;
-	src: url("Always Together.otf");
+	font-family: Geist;
+	src: url("Geist-Variable.woff2");
 }
 #content {
-	max-width: 860px;
+	max-width: 45%;
 	margin: 0 auto;
 }
 body {
-	font-family: Always Together;
+	font-family: Geist;
 	background-color: rgb(191, 191, 191);
 	cursor: default;
 }
